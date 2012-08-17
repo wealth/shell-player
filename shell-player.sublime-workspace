@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"add"
+			],
+			[
+				"recent",
+				"recentfilter"
+			],
+			[
+				"rece",
+				"recentfilter"
+			],
+			[
+				"get_file",
+				"get_file_path_from_dnd_dropped_uri"
+			],
+			[
+				"PopupFile",
+				"PopupFileRecent"
+			],
+			[
+				"audio",
+				"audio_source_merge_id"
+			],
+			[
+				"play",
+				"play_file"
+			],
+			[
+				"pla",
+				"play_file"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"actio",
+				"action_group"
+			],
+			[
+				"ui",
+				"uimanager"
+			],
+			[
+				"choo",
+				"choose_file"
+			],
+			[
+				"mime",
+				"mime_type"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"is",
+				"is_alive"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"st",
+				"stdargs"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"load",
+				"loadfile"
+			],
+			[
+				"get_u",
+				"get_file_path_from_dnd_dropped_uri"
+			],
+			[
+				"event",
+				"eventbox"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"lo",
+				"loadfile"
+			],
+			[
+				"PopupVide",
+				"PopupVideoSource"
+			],
+			[
+				"PopupVideo",
+				"PopupVideoExternal"
+			],
+			[
+				"scro",
+				"on_scroll_wheel"
+			],
+			[
+				"eventbox",
+				"eventbox"
+			],
+			[
+				"mous",
+				"mouse_position"
+			],
+			[
+				"eve",
+				"eventbox"
+			],
+			[
+				"on_menu",
+				"on_menu_file_quit"
+			],
+			[
+				"ma",
+				"maximized"
+			],
+			[
+				"set",
+				"set_keep_above"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"mpla",
+				"mplayer"
+			],
+			[
+				"Mpla",
+				"MPlayer"
+			],
+			[
+				"mpl",
+				"mplayer"
+			],
+			[
+				"re",
+				"readline"
+			],
+			[
+				"EditFile",
+				"EditFileClose"
+			],
+			[
+				"Ed",
+				"EditThird"
+			],
+			[
+				"G",
+				"GLib"
+			],
+			[
+				"rel",
+				"relative_y"
+			],
+			[
+				"cur",
+				"current_y"
+			],
+			[
+				"cure",
+				"current_x"
+			],
+			[
+				"curr",
+				"current_x"
+			],
+			[
+				"line",
+				"line_square"
+			],
+			[
+				"top",
+				"top_us"
+			],
+			[
+				"left",
+				"left_zs"
+			],
+			[
+				"right",
+				"right_ys"
+			],
+			[
+				"bin",
+				"bincenters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "shell-player.desktop",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shell-player.py",
+			"settings":
+			{
+				"buffer_size": 21449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core.py",
+			"settings":
+			{
+				"buffer_size": 19166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mtypes.py",
+			"settings":
+			{
+				"buffer_size": 2982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "misc.py",
+			"settings":
+			{
+				"buffer_size": 3357,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/demi/Documents/baudm-mplayer.py/mplayer/misc.py",
+		"/home/demi/Documents/baudm-mplayer.py/mplayer/core.py",
+		"/home/demi/Documents/baudm-mplayer.py/mplayer/mtypes.py",
+		"/usr/share/applications/rpmfusion-smplayer.desktop",
+		"/usr/share/applications/rpmfusion-gnome-mplayer.desktop",
+		"/home/demi/Public/shell-player/shell-mplayer.py",
+		"/home/demi/Public/gtk-demo-gmplayer.py",
+		"/home/demi/Public/gtkview.py",
+		"/home/demi/Documents/gnome-mplayer-read-only/Makefile.in",
+		"/home/demi/Documents/gnome-mplayer-read-only/configure.in",
+		"/home/demi/Documents/gnome-mplayer-read-only/src/main.c",
+		"/home/demi/Public/gtk-demo-nonblocking.py",
+		"/home/demi/Public/gtk-demo-backup.py",
+		"/usr/lib64/python2.7/site-packages/gi/types.py",
+		"/home/demi/Public/magnetic/generate.sh",
+		"/home/demi/Public/magnetic/unitsphere.py",
+		"/home/demi/Public/magnetic/histograms.sh",
+		"/home/demi/Public/magnetic/histograms.py",
+		"/home/demi/Public/magnetic/magnetic.cpp",
+		"/home/demi/Public/magnetic/diameters.py",
+		"/home/demi/Public/magnetic/field.py",
+		"/home/demi/Public/magnetic/black-field.py",
+		"/home/demi/Public/magnetic/magnetic.sh",
+		"/home/demi/Public/magnetic/animate.sh",
+		"/home/demi/Public/mplv.py",
+		"/home/demi/Public/magnetic/.gitignore",
+		"/home/demi/Public/magnetic/data/initial.txt",
+		"/home/demi/Public/magnetic/data/final.txt",
+		"/home/demi/Public/magnetic_field.py",
+		"/home/demi/Public/trial.py",
+		"/home/demi/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/demi/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/demi/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"audio_un",
+			"spawn",
+			"external",
+			"_args",
+			"exter",
+			"append",
+			"extern",
+			"answer",
+			"_stdout",
+			"answers",
+			"info",
+			"len",
+			"border",
+			"settings",
+			"Edit",
+			"audio",
+			"if self. mpla",
+			"resize_grip",
+			"grip",
+			"1.0.6",
+			"gmlib",
+			"1.0.7",
+			"gmtk",
+			"poll",
+			"block",
+			"get_flags",
+			"io",
+			"Unix",
+			"osd",
+			"press",
+			"dumpdata",
+			"n, mn, mxyz, dm,",
+			"final",
+			"cxyz"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Popup",
+			"self.resize_grip",
+			"resize_grip"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "shell-player.desktop",
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shell-player.py",
+					"settings":
+					{
+						"buffer_size": 21449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "core.py",
+					"settings":
+					{
+						"buffer_size": 19166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11640,
+								11640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4875.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mtypes.py",
+					"settings":
+					{
+						"buffer_size": 2982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "misc.py",
+					"settings":
+					{
+						"buffer_size": 3357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								2737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}
